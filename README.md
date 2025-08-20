@@ -1,4 +1,4 @@
-# Managing Evolving Contracts
+# Managing Evolving SCHEMA  Contracts
 
 Managing an evolving schema is a critical challenge in software development and data engineering. It's the process of modifying the structure of your data (database tables, API requests/responses, file formats, etc.) without breaking existing functionality.
 
